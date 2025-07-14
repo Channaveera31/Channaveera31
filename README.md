@@ -1,10 +1,11 @@
-<!-- Intro GIF -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://www.rtspvtltd.com/images/work/software.gif" alt="Banner" style="max-width: 10%; border-radius: 5px;" />
+  <img src="https://i.postimg.cc/KcCZHFS0/Black-Minimalist-UIUX-Designer-Linked-In-Banner.png" alt="Banner" style="width: 100%; border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Channaveera K S</h1>
 <h3 align="center">🎓 Certified Pega Senior System Architect | 💻 Passionate Java Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20231002/original/pngtree-software-development-isometric-web-concept-png-image_13227517.png">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=channaveera31&label=Profile%20views&color=4ade80&style=flat-square" alt="Profile Views" />

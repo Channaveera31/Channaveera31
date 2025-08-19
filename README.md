@@ -17,7 +17,7 @@
 
 🔭 Working on **StudyMate AI - Study smarter not harder !!**  
 🌱 Currently learning **Java, Tailwind CSS, Firebase, and Full-Stack Web Development**  
-👯 Looking to collaborate on**StudyMate AI - Study smarter not harder !!** 
+👯 Looking to collaborate on **StudyMate AI - Study smarter not harder !!** 
 🤝 Seeking help with **Optimizing Firebase integration and packaging algorithms**  
 💬 Ask me about **JavaScript, Firebase, Web Hosting, or my transition from Biology to Tech**  
 📫 Reach me at: **channaveeraks@example.com**
